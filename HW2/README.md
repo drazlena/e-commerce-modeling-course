@@ -4,7 +4,7 @@ This repository contains assignments from the E-Commerce Modeling course.
 
 ---
 
-## 📌 Exercise 2 – Sponsored Search Bidding Agents
+## 📌 Exercise 2 – Sponsored Search Bidding Agents- grade:95
 
 
 ---
