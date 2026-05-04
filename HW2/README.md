@@ -6,9 +6,6 @@ This repository contains assignments from the E-Commerce Modeling course.
 
 ## 📌 Exercise 2 – Sponsored Search Bidding Agents
 
-### 👩‍💻 Authors
-- Lena Draz (213690928)
-- Eden Bobo (325468510)
 
 ---
 
